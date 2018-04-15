@@ -1,0 +1,29 @@
+{
+    "name": "apostheme",
+    "displayName": "AposTheme",
+    "description": "Apos' Theme for VSCode. Based on Brogrammer and Plastic.",
+    "version": "0.4.0",
+    "publisher": "vyne",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Apostolique/AposTheme"
+    },
+    "bugs": {
+        "url": "https://github.com/Apostolique/AposTheme/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "AposTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AposTheme-color-theme.json"
+            }
+        ]
+    }
+}
