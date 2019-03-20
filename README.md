@@ -1,5 +1,5 @@
 # README
-Apos' Theme for VSCode. Based on Brogrammer and Plastic.
+Apos' Theme for VSCode. Based on Brogrammer and Sapphire.
 
 # PREVIEW
-<a href="https://raw.githubusercontent.com/apostolique/apostheme/master/docs/Preview.png" target="_blank"><img src="https://raw.githubusercontent.com/apostolique/apostheme/master/docs/Preview.png" alt="Preview"></a>
+<a href="docs/Preview.png" target="_blank"><img src="docs/Preview.png" alt="Preview"></a>
