@@ -1,11 +1,11 @@
 {
     "name": "apostheme",
     "displayName": "AposTheme",
-    "description": "Apos' Theme for VSCode. Based on Brogrammer and Plastic.",
-    "version": "0.5.0",
+    "description": "Apos' Theme for VSCode. Based on Brogrammer and Sapphire.",
+    "version": "0.6.2",
     "publisher": "vyne",
     "engines": {
-        "vscode": "^1.22.0"
+        "vscode": "^1.28.0"
     },
     "categories": [
         "Themes"
