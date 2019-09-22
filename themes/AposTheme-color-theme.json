@@ -20,12 +20,19 @@
       "name": "Boolean",
       "scope": "constant.language.boolean",
       "settings": {
-        "foreground": "#E74C3C"
+        "foreground": "#6C71C4"
       }
     },
     {
       "name": "Number",
       "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#6C71C4"
+      }
+    },
+    {
+      "name": "Null",
+      "scope": "constant.language.null",
       "settings": {
         "foreground": "#6C71C4"
       }
@@ -148,7 +155,7 @@
       "name": "JSON constant",
       "scope": "constant.language.json",
       "settings": {
-        "foreground": "#3498DB"
+        "foreground": "#6C71C4"
       }
     },
     {
