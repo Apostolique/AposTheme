@@ -2,7 +2,7 @@
     "name": "apostheme",
     "displayName": "AposTheme",
     "description": "Apos' Theme for VSCode. Based on Brogrammer and Sapphire.",
-    "version": "0.6.6",
+    "version": "0.7.0",
     "publisher": "vyne",
     "engines": {
         "vscode": "^1.28.0"
@@ -23,6 +23,11 @@
                 "label": "AposTheme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/AposTheme-color-theme.json"
+            },
+            {
+                "label": "AposThemeGray",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AposTheme-gray-color-theme.json"
             }
         ]
     }
