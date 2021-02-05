@@ -3,8 +3,15 @@
   "name": "AposTheme",
   "tokenColors": [
     {
+      "name": "Punctuation",
+      "scope": "punctuation",
+      "settings": {
+        "foreground": "#EFEFEF"
+      }
+    },
+    {
       "name": "String",
-      "scope": "string",
+      "scope": "string, punctuation.definition.string",
       "settings": {
         "foreground": "#F1C40F"
       }
