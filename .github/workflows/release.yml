@@ -1,0 +1,31 @@
+name: Release to vscode marketplace
+
+on:
+  push:
+    tags:
+    - 'v*'
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+        registry-url: 'https://registry.npmjs.org'
+    - name: Get version from tag
+      run: |
+        TAGVERSION=$(git describe --tags --abbrev=0)
+        echo "TAGVERSION=${TAGVERSION:1}" >> $GITHUB_ENV
+    - run: npm --no-git-tag-version version ${{ env.TAGVERSION }}
+    - name: Install vsce
+      run: npm install -g vsce
+    - name: Package and Publish
+      run: |
+        vsce package
+        vsce publish -p $VSCE_TOKEN
+      env:
+        VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
