@@ -1,6 +1,9 @@
 # AposTheme
 Apos' Theme for VSCode. Based on Brogrammer and Sapphire.
 
+## Install
+Get it from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=vyne.apostheme) or search for `AposTheme` in the vscode extensions search.
+
 ## Preview
 [![Blue Preview](docs/preview-blue.png)](docs/preview-blue.png)
 
