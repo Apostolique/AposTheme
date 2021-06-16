@@ -8,16 +8,16 @@ Get it from the [Visual Studio Marketplace](https://marketplace.visualstudio.com
 [![Blue Preview](docs/preview-blue.png)](docs/preview-blue.png)
 
 ## Colors
-- ![#05070b](https://placehold.it/15/05070b/000000?text=+) `#05070b`
-- ![#080d14](https://placehold.it/15/080d14/000000?text=+) `#080d14`
-- ![#E74C3C](https://placehold.it/15/E74C3C/000000?text=+) `#E74C3C`
-- ![#E67E22](https://placehold.it/15/E67E22/000000?text=+) `#E67E22`
-- ![#F1C40F](https://placehold.it/15/F1C40F/000000?text=+) `#F1C40F`
-- ![#6C71C4](https://placehold.it/15/6C71C4/000000?text=+) `#6C71C4`
-- ![#3498DB](https://placehold.it/15/3498DB/000000?text=+) `#3498DB`
-- ![#2ECC71](https://placehold.it/15/2ECC71/000000?text=+) `#2ECC71`
-- ![#5C6370](https://placehold.it/15/5C6370/000000?text=+) `#5C6370`
-- ![#D2D6DB](https://placehold.it/15/D2D6DB/000000?text=+) `#D2D6DB`
+- ![#05070b](./docs/05070B.png) `#05070B`
+- ![#080d14](./docs/080D14.png) `#080D14`
+- ![#E74C3C](./docs/E74C3C.png) `#E74C3C`
+- ![#E67E22](./docs/E67E22.png) `#E67E22`
+- ![#F1C40F](./docs/F1C40F.png) `#F1C40F`
+- ![#6C71C4](./docs/6C71C4.png) `#6C71C4`
+- ![#3498DB](./docs/3498DB.png) `#3498DB`
+- ![#2ECC71](./docs/2ECC71.png) `#2ECC71`
+- ![#5C6370](./docs/5C6370.png) `#5C6370`
+- ![#D2D6DB](./docs/D2D6DB.png) `#D2D6DB`
 
 ## Derivatives
 
