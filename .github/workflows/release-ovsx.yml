@@ -1,4 +1,4 @@
-name: Release to vscode marketplace
+name: Release to ovsx marketplace
 
 on:
   push:
