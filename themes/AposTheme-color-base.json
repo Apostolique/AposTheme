@@ -75,7 +75,8 @@
         "entity.name.namespace",
         "storage.type.namespace",
         "storage.type.class",
-        "storage.type.var"
+        "storage.type.var",
+        "storage.type.accessor"
       ],
       "settings": {
         "foreground": "#E74C3C"
