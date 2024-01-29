@@ -77,6 +77,7 @@
         "storage.type.class",
         "storage.type.var",
         "storage.type.accessor",
+        "storage.type.enum",
         "storage.type.struct"
       ],
       "settings": {
