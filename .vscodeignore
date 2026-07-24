@@ -1,0 +1,9 @@
+.github/**
+.vscode/**
+docs/**
+.gitignore
+.vscodeignore
+*.vsix
+
+# README images use relative paths; vsce rewrites them to raw.githubusercontent.com
+# URLs (derived from the "repository" field), so docs/ does not need to ship.
