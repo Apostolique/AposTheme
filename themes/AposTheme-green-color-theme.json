@@ -2,7 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "name": "AposThemeGreen",
   "include": "./AposTheme-color-base.json",
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
 
   // Green surfaces. Everything else lives in AposTheme-color-base.json.
   // Surface scale, darkest to lightest: 070b05 0a1006 0d1408 0f1809 121c0b 14200c

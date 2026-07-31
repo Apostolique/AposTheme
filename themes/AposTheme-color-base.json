@@ -18,7 +18,9 @@
   //   #D2D6DB light    identifiers
   //   #EFEFEF white    punctuation, foreground
 
-  "semanticHighlighting": true,
+  // Off by default. Set "editor.semanticHighlighting.enabled": true to opt in
+  // to the semanticTokenColors below.
+  "semanticHighlighting": false,
 
   "semanticTokenColors": {
     "namespace": "#2ECC71",

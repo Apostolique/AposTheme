@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
 - Nothing yet!
 
+## [1.2.1] - 2026-07-30
+
+### Changed
+- Semantic highlighting is off by default. Set `"editor.semanticHighlighting.enabled": true`
+  to turn it back on.
+
 ## [1.2.0] - 2026-07-26
 
 ### Added
@@ -65,7 +71,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - Earlier releases predate this changelog; see the
   [commit history](https://github.com/Apostolique/AposTheme/commits/main) for details.
 
-[Unreleased]: https://github.com/Apostolique/AposTheme/compare/v1.2.0...HEAD
+[Unreleased]: https://github.com/Apostolique/AposTheme/compare/v1.2.1...HEAD
+[1.2.1]: https://github.com/Apostolique/AposTheme/compare/v1.2.0...v1.2.1
 [1.2.0]: https://github.com/Apostolique/AposTheme/compare/v1.1.3...v1.2.0
 [1.1.3]: https://github.com/Apostolique/AposTheme/compare/v1.1.2...v1.1.3
 [1.1.2]: https://github.com/Apostolique/AposTheme/compare/v1.1.1...v1.1.2
